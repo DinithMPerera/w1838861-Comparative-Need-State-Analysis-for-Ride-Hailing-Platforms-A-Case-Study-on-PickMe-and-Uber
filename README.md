@@ -40,10 +40,10 @@ To identify distinct customer groups, we used K-Modes clustering, which is suita
 **Optimal Number of Clusters**
 After evaluating multiple cluster sizes using: 
 
-✔ Elbow Method
-✔ Silhouette Score
-✔ Dunn Index
-✔ Calinski-Harabasz Index
+✔ Elbow Method <br>
+✔ Silhouette Score <br>
+✔ Dunn Index <br>
+✔ Calinski-Harabasz Index <br>
 
 We found 4 clusters to be the optimal choice.
 
