@@ -33,6 +33,28 @@ This project is part of my **Final Year Project (FYP)** for the **BSc (Hons) in 
 
 ---
 
+## 🤖 Clustering Analysis
+**K-Modes Clustering (K = 4)**
+To identify distinct customer groups, we used K-Modes clustering, which is suitable for categorical data.
+
+**Optimal Number of Clusters**
+After evaluating multiple cluster sizes using: 
+✔ Elbow Method
+✔ Silhouette Score
+✔ Dunn Index
+✔ Calinski-Harabasz Index
+
+We found 4 clusters to be the optimal choice.
+
+---
+
+## 🔜 Next Steps
+📌 **Cluster Evaluation:** Validate segmentation results.
+📌 **Labeling Clusters:** Provide meaningful names based on customer behavior.
+📌 **Interactive Dashboard:** Develop a Power BI/Tableau dashboard for better visualization.
+📌 **Research Paper Completion:** Finalize the academic report.
+
+---
 ## 🔧 Installation & Dependencies
 To run the Jupyter Notebook, install the required dependencies:
 ```bash
