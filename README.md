@@ -50,9 +50,9 @@ We found 4 clusters to be the optimal choice.
 ---
 
 ## 🔜 Next Steps
-📌 **Cluster Evaluation:** Validate segmentation results.
-📌 **Labeling Clusters:** Provide meaningful names based on customer behavior.
-📌 **Interactive Dashboard:** Develop a Power BI/Tableau dashboard for better visualization.
+📌 **Cluster Evaluation:** Validate segmentation results. <br>
+📌 **Labeling Clusters:** Provide meaningful names based on customer behavior. <br>
+📌 **Interactive Dashboard:** Develop a Power BI/Tableau dashboard for better visualization. <br>
 📌 **Research Paper Completion:** Finalize the academic report.
 
 ---
